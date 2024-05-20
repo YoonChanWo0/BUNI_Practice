@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Form Registration</title>
+    <style>
+        #resultBox {
+            display: none;
+        }
+    </style>
+    <script>
+        function signUp() {
+            var name = document.getElementById('name').value;
+            var email = document.getElementById('email').value;
+
+            // Hide the form
+            document.getElementById('regform').style.display = 'none';
+
+            // Show the result box
+            var resultBox = document.getElementById('resultBox');
+            resultBox.style.display = 'block';
+            resultBox.innerHTML = "<p>Name: " + name + "</p><p>Email: " + email + "</p>";
+        }
+    </script>
+</head>
+<body>
+<div id="regform">
+    <form>
+        이름: <input type="text" id="name" name="name"><br>
+        이메일: <input type="text" id="email" name="email"><br>
+        <input type="button" value="가입" onclick="signUp()">
+    </form>
+</div>
+<div id="resultBox"></div>
+</body>
+</html>
