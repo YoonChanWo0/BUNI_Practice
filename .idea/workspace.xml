@@ -4,19 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8db8369f-06a9-4ece-9041-bc768eb27cbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/intelijepractice/FormTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/intelijepractice/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/intelijepractice/ServletAnalysis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/intelijepractice/signsing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/signup.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/learn01/todolist.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/learn02/formTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mem/regform.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8db8369f-06a9-4ece-9041-bc768eb27cbb" name="Changes" comment="2024-05-20 커밋">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/intelijepractice/AddAry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/intelijepractice/ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/intelijepractice/Calu01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/intelijepractice/FilterTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/addAry.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/learn03/calu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/learn05/appli.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,11 +27,43 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BUNI_Practice" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BUNI_Practice" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BUNI_Practice" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
+        <option value="Class" />
         <option value="New Servlet" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -46,39 +77,94 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2gim8qw29HvzxTvmji3Z94tvWCK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Gradle.Build BUNI_Practice.executor": "Run",
-    "JavaScript Debug.formTest.html.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Tomcat Server.Tomcat 9.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/source/BUNI_Practice/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Gradle.BUNI_Practice [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.BUNI_Practice [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build BUNI_Practice.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.addAry.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.calu.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.formTest.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.Tomcat 9.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/source/BUNI_Practice/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\source\BUNI_Practice\src" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="BUNI_Practice [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="BUNI_Practice [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="Tomcat 9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9" ALTERNATIVE_JRE_ENABLED="false">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
       <option name="UPDATING_POLICY" value="update-resources" />
       <deployment>
         <artifact name="Gradle : org.example : BUNI_Practice-1.0-SNAPSHOT.war (exploded)">
@@ -165,6 +251,17 @@
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Gradle.BUNI_Practice [build]" />
+      <item itemvalue="Gradle.BUNI_Practice [clean]" />
+      <item itemvalue="Tomcat Server.Tomcat 9" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.BUNI_Practice [build]" />
+        <item itemvalue="Gradle.BUNI_Practice [clean]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -182,10 +279,26 @@
       <option name="presentableId" value="Default" />
       <updated>1716188616786</updated>
       <workItem from="1716188617817" duration="4286000" />
+      <workItem from="1716193207334" duration="375000" />
+      <workItem from="1716249482871" duration="13961000" />
+      <workItem from="1716275160700" duration="2161000" />
     </task>
+    <task id="LOCAL-00001" summary="2024-05-20 커밋">
+      <option name="closed" value="true" />
+      <created>1716193249366</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716193249366</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2024-05-20 커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-05-20 커밋" />
   </component>
 </project>
