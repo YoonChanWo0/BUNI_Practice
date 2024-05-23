@@ -4,18 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8db8369f-06a9-4ece-9041-bc768eb27cbb" name="Changes" comment="2024-05-20 커밋">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/intelijepractice/AddAry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/intelijepractice/ApplicationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/intelijepractice/Calu01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/intelijepractice/FilterTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/addAry.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/learn03/calu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/learn05/appli.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="8db8369f-06a9-4ece-9041-bc768eb27cbb" name="Changes" comment="2024-05-21 커밋">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Cookiepractice/CookieSvt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/intelijepractice/SingleForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/intelijepractice/app.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/learn05/Cookiee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/learn05/applicationTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/learn05/singleForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/learn07/hijsp.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/learn07/jsp02.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/learn07/jsp03.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/learn07/jsp04.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/intelijepractice/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/intelijepractice/ApplicationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +63,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="package.json" />
         <option value="New Servlet" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -87,37 +91,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Gradle.BUNI_Practice [build].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.BUNI_Practice [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Build BUNI_Practice.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.addAry.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.calu.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.formTest.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Tomcat Server.Tomcat 9.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/source/BUNI_Practice/src&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Gradle.BUNI_Practice [build].executor": "Run",
+    "Gradle.BUNI_Practice [clean].executor": "Run",
+    "Gradle.Build BUNI_Practice.executor": "Run",
+    "JavaScript Debug.Cookiee.html.executor": "Run",
+    "JavaScript Debug.SingleForm.html.executor": "Run",
+    "JavaScript Debug.addAry.html.executor": "Run",
+    "JavaScript Debug.appli.html.executor": "Run",
+    "JavaScript Debug.applicationTest.html.executor": "Run",
+    "JavaScript Debug.calu.html.executor": "Run",
+    "JavaScript Debug.formTest.html.executor": "Run",
+    "JavaScript Debug.hijsp.jsp.executor": "Run",
+    "JavaScript Debug.jsp02.jsp.executor": "Run",
+    "JavaScript Debug.jsp03.jsp.executor": "Run",
+    "JavaScript Debug.singleForm.html.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Tomcat Server.Tomcat 9.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/source/BUNI_Practice/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\source\BUNI_Practice\src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\source\BUNI_Practice\src\main\java\org\example\intelijepractice" />
+      <recent name="C:\source\BUNI_Practice\src\main\webapp\learn05" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9">
     <configuration name="BUNI_Practice [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -281,7 +297,10 @@
       <workItem from="1716188617817" duration="4286000" />
       <workItem from="1716193207334" duration="375000" />
       <workItem from="1716249482871" duration="13961000" />
-      <workItem from="1716275160700" duration="2161000" />
+      <workItem from="1716275160700" duration="2845000" />
+      <workItem from="1716348324102" duration="5044000" />
+      <workItem from="1716356718596" duration="1872000" />
+      <workItem from="1716423443539" duration="9654000" />
     </task>
     <task id="LOCAL-00001" summary="2024-05-20 커밋">
       <option name="closed" value="true" />
@@ -291,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716193249366</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2024-05-21 커밋">
+      <option name="closed" value="true" />
+      <created>1716278102748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716278102748</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,6 +326,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2024-05-20 커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-05-20 커밋" />
+    <MESSAGE value="2024-05-21 커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-05-21 커밋" />
   </component>
 </project>
